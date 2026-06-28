@@ -331,6 +331,8 @@ The project successfully:
 - Highlighted high-growth periods automatically
 
 ---
+## Output
+! [image alt](https://github.com/yashrajmohanty03-ai/Ev3/blob/bcc2cdf28a9e4fc58471aec8f7077e06edff9dde/output.png)
 
 ## Conclusion
 
